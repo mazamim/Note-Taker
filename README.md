@@ -30,11 +30,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 then
 run npm install for dependency installation
   
-  ## Usagexsdffbghj,kohgdc
+  ## Usage
  
 site live url at https://my-note-taker-monash.herokuapp.com/
+![1](https://user-images.githubusercontent.com/53158763/153838353-0ee01c28-94fb-4113-ae1a-76af20375f65.jpg)
 
-  
+  ![2](https://user-images.githubusercontent.com/53158763/153838370-56743eea-eb9d-46d5-918b-ecb7052cccba.jpg)
+
   ## Credits
   🏆 Heroku https://dashboard.heroku.com
   
